@@ -1,8 +1,8 @@
 # Tuesday 17 November 2026 — The World in One Day
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![news-image-20261117](https://img.shields.io/badge/news--image--20261117-entry-green)](https://make.fun)
-[![Node 22](https://img.shields.io/badge/Node-22-brightgreen)](https://nodejs.org)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Vaniaa98/tuesday-17-november/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Vaniaa98/tuesday-17-november/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 Sum up 17 November's world news in one image. Built by an AI agent for make.fun's
 "Sum up 17 November's world news in one image" bounty, $250 in USDC.
